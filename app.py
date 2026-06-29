@@ -4,7 +4,7 @@ from frontend.styles.theme import CUSTOM_CSS
 
 # ── Page config ──
 st.set_page_config(
-    page_title="NeuroSense AI",
+    page_title="Medha Shakti AI",
     page_icon="🧠",
     layout="wide",
     initial_sidebar_state="expanded",
