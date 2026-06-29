@@ -7,7 +7,7 @@ from frontend.charts.plots import risk_distribution_pie
 
 
 def render() -> None:
-    st.title("🧠 NeuroSense AI — Dashboard")
+    st.title("🧠Medha Shakti AI — Dashboard")
     st.caption("Multimodal Explainable Alzheimer's Screening System")
     st.divider()
 
